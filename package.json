@@ -12,6 +12,7 @@
   "dependencies": {
     "@t3-oss/env-core": "^0.10.1",
     "husky": "^9.0.11",
+    "jsonwebtoken": "^9.0.2",
     "lint-staged": "^15.2.7",
     "next": "^14.0.4",
     "react": "^18.3.1",
